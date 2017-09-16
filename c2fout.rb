@@ -1,4 +1,5 @@
-# output
+# Takes input from the terminal
+
 print 'Hello. Please enter a Celsius value: '
 celsius = gets.to_i
 farenheit = (celsius * 9 / 5) + 32

@@ -1,4 +1,4 @@
-# interactive
+# Takes input from a user in terminal.
 print 'Please input a Celsius value: '
 celsius = gets
 farenheit = (celsius.to_i * 9 / 5) + 32
